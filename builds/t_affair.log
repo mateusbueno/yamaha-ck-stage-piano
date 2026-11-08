@@ -1,0 +1,33 @@
+keymaps novos: 6 -> unicos: 5 ; maior indice: 888
+{
+ "base": "8W61OS_.PGM",
+ "voices": [
+  {
+   "name": "BT Rhodes Affair",
+   "vprm_idx": 367,
+   "pv_idx": 367,
+   "cat": "0x8",
+   "row": 3,
+   "pc": 5,
+   "keymaps": {
+    "804": 884,
+    "805": 885,
+    "806": 886,
+    "807": 887,
+    "808": 887,
+    "809": 888
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 5144
+  }
+ ],
+ "vprm_free_used": "0x2c7340",
+ "keymap_table": "0x2c5074",
+ "voice_table": "0x2c6d80",
+ "wave": {
+  "old_size": "0x2fbc0000",
+  "new_size": "0x38580000",
+  "data_pages": "0x3840b",
+  "tail_page": "0x3857f"
+ }
+}

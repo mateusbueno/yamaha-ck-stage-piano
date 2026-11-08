@@ -1,0 +1,442 @@
+[
+ {
+  "kind": "stereo",
+  "tag": "reverse",
+  "src": 0,
+  "cat": 0,
+  "name": "BT Reverse Pf",
+  "data": "ck_bt_all",
+  "km": {
+   "804": 64,
+   "805": 64,
+   "806": 64,
+   "807": 64,
+   "808": 64,
+   "809": "silence"
+  },
+  "share": true
+ },
+ {
+  "kind": "stereo",
+  "tag": "valhalla",
+  "src": 0,
+  "cat": 0,
+  "name": "BT Valhalla",
+  "data": "ck_bt_all",
+  "km": {
+   "804": 64,
+   "805": 64,
+   "806": 64,
+   "807": 64,
+   "808": 64,
+   "809": "silence"
+  },
+  "share": true
+ },
+ {
+  "kind": "cfx",
+  "src": 0,
+  "cat": 0,
+  "name": "BT Astoria",
+  "data": "ck_astoria",
+  "rootshift": 4,
+  "finescale": 0.8,
+  "km": {
+   "804": 120,
+   "805": 108,
+   "806": 96,
+   "807": 84,
+   "808": 71,
+   "809": "silence"
+  },
+  "silence_data": "ck_bt_all",
+  "el_att": [
+   7,
+   7,
+   7,
+   5,
+   0
+  ],
+  "el_set": {
+   "97": 54
+  }
+ },
+ {
+  "kind": "custom",
+  "tag": "edge",
+  "src": 113,
+  "cat": 56,
+  "name": "BT Synth Edge",
+  "data": "ck_bt_all",
+  "els": [
+   {
+    "ch": "LR",
+    "vc": 28
+   },
+   {
+    "ch": "LR",
+    "vc": 76
+   },
+   {
+    "ch": "LR",
+    "vc": 112
+   }
+  ]
+ },
+ {
+  "kind": "custom",
+  "tag": "crystal",
+  "src": 365,
+  "cat": 8,
+  "name": "BT Crystal Rd",
+  "data": "ck_bt_all",
+  "els": [
+   {
+    "ch": "M",
+    "vc": 17
+   },
+   {
+    "ch": "M",
+    "vc": 46
+   },
+   {
+    "ch": "M",
+    "vc": 65
+   },
+   {
+    "ch": "M",
+    "vc": 79
+   },
+   {
+    "ch": "M",
+    "vc": 89
+   },
+   {
+    "ch": "M",
+    "vc": 98
+   },
+   {
+    "ch": "M",
+    "vc": 106
+   },
+   {
+    "ch": "M",
+    "vc": 113
+   },
+   {
+    "ch": "M",
+    "vc": 119
+   },
+   {
+    "ch": "M",
+    "vc": 125
+   },
+   "silence"
+  ]
+ },
+ {
+  "kind": "custom",
+  "tag": "d50m",
+  "src": 365,
+  "cat": 48,
+  "name": "BT D50 Stack",
+  "data": "ck_bt_all",
+  "els": [
+   {
+    "ch": "M",
+    "vc": 17
+   },
+   {
+    "ch": "M",
+    "vc": 46
+   },
+   {
+    "ch": "M",
+    "vc": 65
+   },
+   {
+    "ch": "M",
+    "vc": 79
+   },
+   {
+    "ch": "M",
+    "vc": 89
+   },
+   {
+    "ch": "M",
+    "vc": 98
+   },
+   {
+    "ch": "M",
+    "vc": 106
+   },
+   {
+    "ch": "M",
+    "vc": 113
+   },
+   {
+    "ch": "M",
+    "vc": 119
+   },
+   {
+    "ch": "M",
+    "vc": 125
+   },
+   "silence"
+  ],
+  "outside": "silence"
+ },
+ {
+  "kind": "custom",
+  "tag": "fast",
+  "src": 175,
+  "cat": 40,
+  "name": "BT FastString",
+  "data": "ck_bt_all",
+  "els": [
+   {
+    "ch": "L",
+    "vc": 100
+   },
+   {
+    "ch": "R",
+    "vc": 100
+   },
+   "silence",
+   "silence"
+  ]
+ },
+ {
+  "kind": "custom",
+  "tag": "atmos",
+  "src": 255,
+  "cat": 48,
+  "name": "BT Atmosphere",
+  "data": "ck_bt_all",
+  "els": [
+   {
+    "ch": "L",
+    "vc": 100
+   },
+   {
+    "ch": "R",
+    "vc": 100
+   }
+  ]
+ },
+ {
+  "kind": "custom",
+  "tag": "hillsong",
+  "src": 255,
+  "cat": 48,
+  "name": "BT Hillsong",
+  "data": "ck_bt_all",
+  "els": [
+   {
+    "ch": "L",
+    "vc": 100
+   },
+   {
+    "ch": "R",
+    "vc": 100
+   }
+  ]
+ },
+ {
+  "kind": "custom",
+  "tag": "elevation",
+  "src": 255,
+  "cat": 48,
+  "name": "BT Elevation",
+  "data": "ck_bt_all",
+  "els": [
+   {
+    "ch": "L",
+    "vc": 100
+   },
+   {
+    "ch": "R",
+    "vc": 100
+   }
+  ]
+ },
+ {
+  "kind": "custom",
+  "tag": "breath",
+  "src": 252,
+  "cat": 48,
+  "name": "BT Breath Pad",
+  "data": "ck_bt_all",
+  "els": [
+   {
+    "ch": "L",
+    "vc": 100
+   },
+   {
+    "ch": "R",
+    "vc": 100
+   }
+  ]
+ },
+ {
+  "kind": "cfx",
+  "src": 0,
+  "cat": 0,
+  "name": "BT Blk Uprght",
+  "data": "ck_upright",
+  "rootshift": 4,
+  "finescale": 0.8,
+  "km": {
+   "804": 120,
+   "805": 108,
+   "806": 96,
+   "807": 84,
+   "808": 71,
+   "809": "silence"
+  },
+  "silence_data": "ck_bt_all",
+  "el_att": [
+   7,
+   7,
+   7,
+   5,
+   0
+  ],
+  "el_set": {
+   "97": 54
+  }
+ },
+ {
+  "kind": "custom",
+  "tag": "yama",
+  "src": 365,
+  "cat": 8,
+  "name": "BT Yama EPs",
+  "data": "ck_bt_all",
+  "els": [
+   {
+    "ch": "M",
+    "vc": 17
+   },
+   {
+    "ch": "M",
+    "vc": 46
+   },
+   {
+    "ch": "M",
+    "vc": 65
+   },
+   {
+    "ch": "M",
+    "vc": 79
+   },
+   {
+    "ch": "M",
+    "vc": 89
+   },
+   {
+    "ch": "M",
+    "vc": 98
+   },
+   {
+    "ch": "M",
+    "vc": 106
+   },
+   {
+    "ch": "M",
+    "vc": 113
+   },
+   {
+    "ch": "M",
+    "vc": 119
+   },
+   {
+    "ch": "M",
+    "vc": 125
+   },
+   "silence"
+  ],
+  "el_set": {
+   "97": 64
+  }
+ },
+ {
+  "kind": "custom",
+  "tag": "digi",
+  "src": 365,
+  "cat": 8,
+  "name": "BT DigiGrand1",
+  "data": "ck_bt_all",
+  "els": [
+   {
+    "ch": "M",
+    "vc": 17
+   },
+   {
+    "ch": "M",
+    "vc": 46
+   },
+   {
+    "ch": "M",
+    "vc": 65
+   },
+   {
+    "ch": "M",
+    "vc": 79
+   },
+   {
+    "ch": "M",
+    "vc": 89
+   },
+   {
+    "ch": "M",
+    "vc": 98
+   },
+   {
+    "ch": "M",
+    "vc": 106
+   },
+   {
+    "ch": "M",
+    "vc": 113
+   },
+   {
+    "ch": "M",
+    "vc": 119
+   },
+   {
+    "ch": "M",
+    "vc": 125
+   },
+   "silence"
+  ]
+ },
+ {
+  "kind": "cfx",
+  "src": 0,
+  "cat": 8,
+  "name": "BT RhodesAfr",
+  "data": "ck_affair",
+  "rootshift": 0,
+  "finescale": 1,
+  "km": {
+   "804": 34,
+   "805": 76,
+   "806": 97,
+   "807": 117,
+   "808": 126,
+   "809": "silence"
+  },
+  "silence_data": "ck_bt_all",
+  "el_att": [
+   7,
+   7,
+   7,
+   5,
+   0
+  ],
+  "el_set": {
+   "97": 54
+  }
+ }
+]

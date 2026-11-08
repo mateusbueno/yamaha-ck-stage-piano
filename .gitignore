@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+# firmware e dados de wave (centenas de MB) ficam fora do repo
+*.PGM
+waves.bin
+ck_*/
+!ck_re/

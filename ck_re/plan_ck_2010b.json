@@ -1,0 +1,336 @@
+[
+ {
+  "kind": "stereo",
+  "tag": "reverse",
+  "src": 0,
+  "cat": 0,
+  "name": "BT Reverse Pf",
+  "data": "ck_bt1",
+  "km": {
+   "804": 64,
+   "805": 64,
+   "806": 64,
+   "807": 64,
+   "808": 64,
+   "809": "silence"
+  },
+  "share": true
+ },
+ {
+  "kind": "stereo",
+  "tag": "valhalla",
+  "src": 0,
+  "cat": 0,
+  "name": "BT Valhalla",
+  "data": "ck_bt1",
+  "km": {
+   "804": 64,
+   "805": 64,
+   "806": 64,
+   "807": 64,
+   "808": 64,
+   "809": "silence"
+  },
+  "share": true
+ },
+ {
+  "kind": "custom",
+  "tag": "yama",
+  "src": 365,
+  "cat": 8,
+  "name": "BT Yama EPs",
+  "data": "ck_bt1",
+  "els": [
+   {
+    "ch": "M",
+    "vc": 17
+   },
+   {
+    "ch": "M",
+    "vc": 46
+   },
+   {
+    "ch": "M",
+    "vc": 65
+   },
+   {
+    "ch": "M",
+    "vc": 79
+   },
+   {
+    "ch": "M",
+    "vc": 89
+   },
+   {
+    "ch": "M",
+    "vc": 98
+   },
+   {
+    "ch": "M",
+    "vc": 106
+   },
+   {
+    "ch": "M",
+    "vc": 113
+   },
+   {
+    "ch": "M",
+    "vc": 119
+   },
+   {
+    "ch": "M",
+    "vc": 125
+   },
+   "silence"
+  ],
+  "el_set": {
+   "97": 64
+  }
+ },
+ {
+  "kind": "custom",
+  "tag": "digi",
+  "src": 365,
+  "cat": 8,
+  "name": "BT DigiGrand1",
+  "data": "ck_bt1",
+  "els": [
+   {
+    "ch": "M",
+    "vc": 17
+   },
+   {
+    "ch": "M",
+    "vc": 46
+   },
+   {
+    "ch": "M",
+    "vc": 65
+   },
+   {
+    "ch": "M",
+    "vc": 79
+   },
+   {
+    "ch": "M",
+    "vc": 89
+   },
+   {
+    "ch": "M",
+    "vc": 98
+   },
+   {
+    "ch": "M",
+    "vc": 106
+   },
+   {
+    "ch": "M",
+    "vc": 113
+   },
+   {
+    "ch": "M",
+    "vc": 119
+   },
+   {
+    "ch": "M",
+    "vc": 125
+   },
+   "silence"
+  ]
+ },
+ {
+  "kind": "custom",
+  "tag": "crystal",
+  "src": 365,
+  "cat": 8,
+  "name": "BT Crystal Rd",
+  "data": "ck_bt1",
+  "els": [
+   {
+    "ch": "M",
+    "vc": 17
+   },
+   {
+    "ch": "M",
+    "vc": 46
+   },
+   {
+    "ch": "M",
+    "vc": 65
+   },
+   {
+    "ch": "M",
+    "vc": 79
+   },
+   {
+    "ch": "M",
+    "vc": 89
+   },
+   {
+    "ch": "M",
+    "vc": 98
+   },
+   {
+    "ch": "M",
+    "vc": 106
+   },
+   {
+    "ch": "M",
+    "vc": 113
+   },
+   {
+    "ch": "M",
+    "vc": 119
+   },
+   {
+    "ch": "M",
+    "vc": 125
+   },
+   "silence"
+  ]
+ },
+ {
+  "kind": "custom",
+  "tag": "d50m",
+  "src": 365,
+  "cat": 48,
+  "name": "BT D50 Stack",
+  "data": "ck_bt1",
+  "els": [
+   {
+    "ch": "M",
+    "vc": 17
+   },
+   {
+    "ch": "M",
+    "vc": 46
+   },
+   {
+    "ch": "M",
+    "vc": 65
+   },
+   {
+    "ch": "M",
+    "vc": 79
+   },
+   {
+    "ch": "M",
+    "vc": 89
+   },
+   {
+    "ch": "M",
+    "vc": 98
+   },
+   {
+    "ch": "M",
+    "vc": 106
+   },
+   {
+    "ch": "M",
+    "vc": 113
+   },
+   {
+    "ch": "M",
+    "vc": 119
+   },
+   {
+    "ch": "M",
+    "vc": 125
+   },
+   "silence"
+  ],
+  "outside": "silence"
+ },
+ {
+  "kind": "custom",
+  "tag": "fast",
+  "src": 175,
+  "cat": 40,
+  "name": "BT FastString",
+  "data": "ck_bt1",
+  "els": [
+   {
+    "ch": "L",
+    "vc": 100
+   },
+   {
+    "ch": "R",
+    "vc": 100
+   },
+   "silence",
+   "silence"
+  ]
+ },
+ {
+  "kind": "custom",
+  "tag": "atmos",
+  "src": 255,
+  "cat": 48,
+  "name": "BT Atmosphere",
+  "data": "ck_bt1",
+  "els": [
+   {
+    "ch": "L",
+    "vc": 100
+   },
+   {
+    "ch": "R",
+    "vc": 100
+   }
+  ]
+ },
+ {
+  "kind": "custom",
+  "tag": "hillsong",
+  "src": 255,
+  "cat": 48,
+  "name": "BT Hillsong",
+  "data": "ck_bt1",
+  "els": [
+   {
+    "ch": "L",
+    "vc": 100
+   },
+   {
+    "ch": "R",
+    "vc": 100
+   }
+  ]
+ },
+ {
+  "kind": "custom",
+  "tag": "elevation",
+  "src": 255,
+  "cat": 48,
+  "name": "BT Elevation",
+  "data": "ck_bt1",
+  "els": [
+   {
+    "ch": "L",
+    "vc": 100
+   },
+   {
+    "ch": "R",
+    "vc": 100
+   }
+  ]
+ },
+ {
+  "kind": "custom",
+  "tag": "breath",
+  "src": 252,
+  "cat": 48,
+  "name": "BT Breath Pad",
+  "data": "ck_bt1",
+  "els": [
+   {
+    "ch": "L",
+    "vc": 100
+   },
+   {
+    "ch": "R",
+    "vc": 100
+   }
+  ]
+ }
+]

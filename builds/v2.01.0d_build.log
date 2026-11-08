@@ -1,0 +1,320 @@
+keymaps novos: 93 -> unicos: 55 ; maior indice: 938
+{
+ "base": "8W61OS_.PGM",
+ "voices": [
+  {
+   "name": "BT Reverse Pf",
+   "vprm_idx": 367,
+   "pv_idx": 367,
+   "cat": "0x0",
+   "row": 0,
+   "pc": 10,
+   "keymaps": {
+    "804": 884,
+    "805": 884,
+    "806": 884,
+    "807": 884,
+    "808": 884,
+    "809": 885
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 30097
+  },
+  {
+   "name": "BT Valhalla",
+   "vprm_idx": 368,
+   "pv_idx": 368,
+   "cat": "0x0",
+   "row": 0,
+   "pc": 11,
+   "keymaps": {
+    "804": 886,
+    "805": 886,
+    "806": 886,
+    "807": 886,
+    "808": 886,
+    "809": 885
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 30097
+  },
+  {
+   "name": "BT Astoria",
+   "vprm_idx": 369,
+   "pv_idx": 369,
+   "cat": "0x0",
+   "row": 0,
+   "pc": 12,
+   "keymaps": {
+    "804": 887,
+    "805": 888,
+    "806": 889,
+    "807": 890,
+    "808": 890,
+    "809": 891
+   },
+   "first_wave_id": "0x36ff3",
+   "pages": 11842
+  },
+  {
+   "name": "BT Synth Edge",
+   "vprm_idx": 370,
+   "pv_idx": 370,
+   "cat": "0x38",
+   "row": 28,
+   "pc": 45,
+   "keymaps": {
+    "647": 892,
+    "648": 893,
+    "649": 894
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 30097
+  },
+  {
+   "name": "BT Crystal Rd",
+   "vprm_idx": 371,
+   "pv_idx": 371,
+   "cat": "0x8",
+   "row": 3,
+   "pc": 5,
+   "keymaps": {
+    "862": 895,
+    "863": 895,
+    "864": 895,
+    "865": 895,
+    "866": 896,
+    "867": 896,
+    "868": 896,
+    "869": 897,
+    "870": 897,
+    "871": 897,
+    "872": 898
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 30097
+  },
+  {
+   "name": "BT D50 Stack",
+   "vprm_idx": 372,
+   "pv_idx": 372,
+   "cat": "0x30",
+   "row": 25,
+   "pc": 50,
+   "keymaps": {
+    "862": 899,
+    "863": 899,
+    "864": 899,
+    "865": 899,
+    "866": 899,
+    "867": 899,
+    "868": 899,
+    "869": 899,
+    "870": 899,
+    "871": 899,
+    "872": 898
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 30097
+  },
+  {
+   "name": "BT FastString",
+   "vprm_idx": 373,
+   "pv_idx": 373,
+   "cat": "0x28",
+   "row": 21,
+   "pc": 26,
+   "keymaps": {
+    "634": 900,
+    "635": 901,
+    "636": 902,
+    "637": 902
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 30097
+  },
+  {
+   "name": "BT Atmosphere",
+   "vprm_idx": 374,
+   "pv_idx": 374,
+   "cat": "0x30",
+   "row": 25,
+   "pc": 51,
+   "keymaps": {
+    "566": 903,
+    "567": 904
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 30097
+  },
+  {
+   "name": "BT Hillsong",
+   "vprm_idx": 375,
+   "pv_idx": 375,
+   "cat": "0x30",
+   "row": 25,
+   "pc": 52,
+   "keymaps": {
+    "566": 905,
+    "567": 906
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 30097
+  },
+  {
+   "name": "BT Elevation",
+   "vprm_idx": 376,
+   "pv_idx": 376,
+   "cat": "0x30",
+   "row": 25,
+   "pc": 53,
+   "keymaps": {
+    "566": 907,
+    "567": 908
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 30097
+  },
+  {
+   "name": "BT Breath Pad",
+   "vprm_idx": 377,
+   "pv_idx": 377,
+   "cat": "0x30",
+   "row": 25,
+   "pc": 54,
+   "keymaps": {
+    "558": 909,
+    "559": 910
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 30097
+  },
+  {
+   "name": "BT Blk Uprght",
+   "vprm_idx": 378,
+   "pv_idx": 378,
+   "cat": "0x0",
+   "row": 0,
+   "pc": 13,
+   "keymaps": {
+    "804": 911,
+    "805": 912,
+    "806": 913,
+    "807": 914,
+    "808": 914,
+    "809": 891
+   },
+   "first_wave_id": "0x39e35",
+   "pages": 8208
+  },
+  {
+   "name": "BT Yama EPs",
+   "vprm_idx": 379,
+   "pv_idx": 379,
+   "cat": "0x8",
+   "row": 3,
+   "pc": 6,
+   "keymaps": {
+    "862": 915,
+    "863": 916,
+    "864": 916,
+    "865": 916,
+    "866": 917,
+    "867": 917,
+    "868": 917,
+    "869": 917,
+    "870": 917,
+    "871": 917,
+    "872": 898
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 30097
+  },
+  {
+   "name": "BT DigiGrand1",
+   "vprm_idx": 380,
+   "pv_idx": 380,
+   "cat": "0x8",
+   "row": 3,
+   "pc": 7,
+   "keymaps": {
+    "862": 918,
+    "863": 918,
+    "864": 919,
+    "865": 920,
+    "866": 921,
+    "867": 922,
+    "868": 923,
+    "869": 924,
+    "870": 925,
+    "871": 926,
+    "872": 898
+   },
+   "first_wave_id": "0x2fa62",
+   "pages": 30097
+  },
+  {
+   "name": "BT WhiteGrand",
+   "vprm_idx": 381,
+   "pv_idx": 381,
+   "cat": "0x0",
+   "row": 0,
+   "pc": 14,
+   "keymaps": {
+    "804": 927,
+    "805": 928,
+    "806": 929,
+    "807": 930,
+    "808": 931,
+    "809": 891
+   },
+   "first_wave_id": "0x3be45",
+   "pages": 9660
+  },
+  {
+   "name": "BT 01W Dyno",
+   "vprm_idx": 382,
+   "pv_idx": 382,
+   "cat": "0x8",
+   "row": 3,
+   "pc": 8,
+   "keymaps": {
+    "804": 932,
+    "805": 933,
+    "806": 933,
+    "807": 934,
+    "808": 934,
+    "809": 891
+   },
+   "first_wave_id": "0x3e401",
+   "pages": 11060
+  },
+  {
+   "name": "BT RhodesAfr",
+   "vprm_idx": 383,
+   "pv_idx": 383,
+   "cat": "0x8",
+   "row": 3,
+   "pc": 9,
+   "keymaps": {
+    "804": 935,
+    "805": 936,
+    "806": 937,
+    "807": 938,
+    "808": 938,
+    "809": 891
+   },
+   "first_wave_id": "0x40f35",
+   "pages": 5144
+  }
+ ],
+ "vprm_free_used": "0x3c9240",
+ "keymap_table": "0x3c6e74",
+ "voice_table": "0x3c8c40",
+ "wave": {
+  "old_size": "0x2fbc0000",
+  "new_size": "0x424c0000",
+  "data_pages": "0x4234d",
+  "tail_page": "0x424bf"
+ }
+}

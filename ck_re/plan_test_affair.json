@@ -1,0 +1,30 @@
+[
+ {
+  "kind": "cfx",
+  "src": 0,
+  "cat": 8,
+  "name": "BT Rhodes Affair",
+  "data": "ck_affair",
+  "rootshift": 0,
+  "finescale": 1,
+  "km": {
+   "804": 34,
+   "805": 76,
+   "806": 97,
+   "807": 117,
+   "808": 126,
+   "809": "silence"
+  },
+  "silence_data": "ck_bt_all",
+  "el_att": [
+   7,
+   7,
+   7,
+   5,
+   0
+  ],
+  "el_set": {
+   "97": 54
+  }
+ }
+]
